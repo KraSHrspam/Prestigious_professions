@@ -16,13 +16,14 @@ body {
     background-color: #39547f;
     margin: auto;
     padding: 20px;
+    font-family: 'PT Sans', sans-serif;
     justify-content: space-between;
-    font-family: 'PT Sans', sans-serif
 }
 
-p {
+h1 {
     color: #DAEAFF;
     margin-left: 20px;
+    margin: 0;
 }
 
 a {
