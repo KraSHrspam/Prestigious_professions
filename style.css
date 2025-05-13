@@ -26,6 +26,14 @@ h1 {
     margin: 0;
 }
 
+h2 {
+    color: #DAEAFF;
+    margin-left: 20px;
+    margin: 0;
+    font-family: 'PT Sans', sans-serif;
+    padding: 30px;
+}
+
 a {
     color: #DAEAFF;
     text-decoration: none;
@@ -42,4 +50,15 @@ a {
     height: 1500px;
     width: 80%;
     margin: auto;
+}
+
+.main_info {
+    display: flex;
+}
+
+.text {
+    color: #DAEAFF;
+    font-size: 24px;
+    font-family: 'PT sans';
+    padding: 40px;
 }
